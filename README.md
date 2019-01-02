@@ -9,3 +9,7 @@ Recreate Deluxe Hotel Wordpress template with React.js.
 ## Template Source
 
 https://colorlib.com/preview/#deluxe
+
+## Notes 
+
+* Skipping carousel feature to improve accessibility
